@@ -35,3 +35,5 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 # THEME = './w3-personal-blog'
+
+SITEURL = '.'
